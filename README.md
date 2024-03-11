@@ -27,10 +27,12 @@ f.	Запросы, содержащий предикат ANY(SOME)  или ALL (
 
 Схема таблицы
 
-![image](https://github.com/DazTezzer/PyQT-SQL/assets/125472899/f78a076b-3462-444c-8881-ddd5a48e480e)
+![image](https://github.com/DazTezzer/PyQT-SQL/assets/125472899/84d6f11d-fd86-4a6f-a176-85acc05ad283)
+
 
 
 СХЕМА ДАННЫХ
 
-![image](https://github.com/DazTezzer/PyQT-SQL/assets/125472899/1b988a9d-6a53-4864-b139-be290027c7e9)
+![image](https://github.com/DazTezzer/PyQT-SQL/assets/125472899/c278df40-0c41-452f-8b5a-73b68b1a892f)
+
 
